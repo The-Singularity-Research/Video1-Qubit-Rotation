@@ -13,7 +13,7 @@ To run the tutorial, we will need Jupyter Notebooks. You can get Jupyter by down
 
 ### Math
 
-We have included a [PDF document](https://github.com/The-Singularity-Research/Video1-Qubit-Rotation/blob/master/video1_qubit_rotation_latex.pdf) showing how to convert quantum circuit diagrams to linear algebra. 
+We have included a [PDF document](Video1_Qubit_Rotation_linear_algebra.pdf) showing how to convert quantum circuit diagrams to linear algebra. 
 
 For example, in the PennyLane tutorial, the following circuit diagram:
 
@@ -42,4 +42,4 @@ Operating on the qubit with other unitary operators (gates) can move it to some 
 
 ![Bloch sphere state](https://www.researchgate.net/publication/333130675/figure/fig3/AS:759029836034048@1557978223308/The-Bloch-sphere-representation-of-a-single-quantum-bit.jpg)
 
-More complicated operators may operate on several qubits at a time, each of which might be in a superposition. In this tutorial we focus on a single qubit to keep things simple, but more complicated operations on tensor producst will be needed soon, so be sure to think about the third circuit diagram given in the [Circuit Diagrams to Linear Algebra Document](https://github.com/The-Singularity-Research/Video1-Qubit-Rotation/blob/master/video1_qubit_rotation_latex.pdf).
+More complicated operators may operate on several qubits at a time, each of which might be in a superposition. In this tutorial we focus on a single qubit to keep things simple, but more complicated operations on tensor producst will be needed soon, so be sure to think about the third circuit diagram given in the [Circuit Diagrams to Linear Algebra Document](Video1_Qubit_Rotation_linear_algebra.pdf).
