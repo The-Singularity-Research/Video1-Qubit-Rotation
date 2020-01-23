@@ -37,6 +37,8 @@ Quantum gates are just unitary matrix operators that operate on one or several q
 
 ![superposition](https://cyberdefensereview.army.mil/Portals/6/Images/morris_quantum/morris_quantum_1.png?ver=2017-03-30-192830-177)
 
+Operating on the qubit with other unitary operators (gates) can move it to some position on the Bloch sphere:
 
+![Bloch sphere state](https://www.researchgate.net/publication/333130675/figure/fig3/AS:759029836034048@1557978223308/The-Bloch-sphere-representation-of-a-single-quantum-bit.jpg)
 
-
+More complicated operators may operate on several qubits at a time, each of which might be in a superposition. In this tutorial we focus on a single qubit to keep things simple, but more complicated operations on tensor producst will be needed soon, so be sure to think about the third circuit diagram given in the [Circuit Diagrams to Linear Algebra Document](https://github.com/The-Singularity-Research/Video1-Qubit-Rotation/blob/master/video1_qubit_rotation_latex.pdf).
