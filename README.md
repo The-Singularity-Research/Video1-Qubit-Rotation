@@ -31,9 +31,11 @@ The third circuit involves a CNOT gate on two qubits which means you will need t
 [![Alt text](video1_video_thumbnail.png)](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
 
+## Gate Operations
 
+Quantum gates are just unitary matrix operators that operate on one or several qubits. For example, the Hadamard gate puts a qubit into a superposition of the 0 and 1 state:
 
-
+![superposition](https://cyberdefensereview.army.mil/Portals/6/Images/morris_quantum/morris_quantum_1.png?ver=2017-03-30-192830-177)
 
 
 
