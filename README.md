@@ -7,5 +7,5 @@ We have included a PDF document showing how to convert quantum circuit diagrams 
 
 The third circuit involves a CNOT gate on two qubits which means you will need to use a tensor product. If you are unfamiliar with tensor products, we will be using them often so you can get used to them as you go along, treat them as a black-box that the code takes care of, or you can go learn about tensor products in the context of quantum computing in this video:
 
-[![Alt text]()](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+[![Alt text](video1_video_thumbnail.png)](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
