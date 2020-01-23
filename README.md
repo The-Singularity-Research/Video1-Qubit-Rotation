@@ -1,9 +1,8 @@
 # Video 1: Qubit Rotation Tutorial
-Video 1: Qubit Rotation Tutorial in PennyLane
 
-In this repository, we will go through the [PennyLane tutorial on qubit rotations](https://pennylane.ai/qml/tutorial/tutorial_qubit_rotation.html). 
+In this repository, we will go through the [PennyLane tutorial on qubit rotations](https://pennylane.ai/qml/tutorial/tutorial_qubit_rotation.html). We will talk a little about quantum gates (which are just matrices operating on vectors) and how to interpret quantum circuit diagrams as linear algebra operations. 
 
-## Prerequisites
+## Prerequisites and Dependencies
 
 ### Programming Experience
 You will not need any programing experience. The vast majority of the coding that you will need to do will be explained in the tutorials. You will be able to get more comfortable with coding in Python as we go. So don't worry if you are not a professional programmer, it is not really needed. If you are really into coding and you're already familiar with Python, then you are a step ahead! All you need to do now is learn linear algebra, tensor products, quantum computing, and machine learning!
