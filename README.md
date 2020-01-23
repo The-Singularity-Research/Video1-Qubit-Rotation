@@ -1,4 +1,4 @@
-# Video1-Qubit-Rotation
+# Video 1: Qubit Rotation Tutorial
 Video 1: Qubit Rotation Tutorial in PennyLane
 
 In this repository, we will go through the [PennyLane tutorial on qubit rotations](https://pennylane.ai/qml/tutorial/tutorial_qubit_rotation.html). 
