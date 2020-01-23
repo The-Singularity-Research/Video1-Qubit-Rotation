@@ -29,6 +29,8 @@ The third circuit involves a CNOT gate on two qubits which means you will need t
 
 [![Alt text](video1_video_thumbnail.png)](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
+If you are feeling adventurous, check out the [challenge problems](Video1_Challenge_Problem.pdf). Correct solutions will be featured on the YouTube channel!
+
 
 ## Gate Operations
 
