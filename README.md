@@ -34,7 +34,7 @@ If you are feeling adventurous, check out the [challenge problems](Video1_Challe
 
 ## Gate Operations
 
-Quantum gates are just unitary matrix operators that operate on one or several qubits. For example, the Hadamard gate puts a qubit into a superposition of the 0 and 1 state:
+Quantum logic gates are just unitary matrix operators that operate on one or several qubits. For example, the Hadamard gate puts a qubit into a superposition of the 0 and 1 state:
 
 ![superposition](https://cyberdefensereview.army.mil/Portals/6/Images/morris_quantum/morris_quantum_1.png?ver=2017-03-30-192830-177)
 
