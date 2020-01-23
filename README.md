@@ -5,6 +5,15 @@ In this repository, we will go through the [PennyLane tutorial on qubit rotation
 
 ## Prerequisites
 
+### Programming Experience
+You will not need any programing experience. The vast majority of the coding that you will need to do will be explained in the tutorials. You will be able to get more comfortable with coding in Python as we go. So don't worry if you are not a professional programmer, it is not really needed. If you are really into coding and you're already familiar with Python, then you are a step ahead! All you need to do is learn linear algebra, quantum physics, and tensor products!
+
+### Anaconda and Jupyter
+To run the tutorial, we will need Jupyter Notebooks. You can get Jupyter by downloading the latest version of [Anaconda](https://www.anaconda.com/distribution/). You can also run Jupyter Lab right in your browser without having to downlaod anything. Most of our tutorials will run in [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/). If you prefer to run Python scripts rather than the interactive environments provided by Jupyter Lab, we will provide Python Scripts as well. We will use terminal some, but not much, but feel free to convert everything over to those environments if you prefer. 
+
+
+### Math
+
 We have included a [PDF document](https://github.com/The-Singularity-Research/Video1-Qubit-Rotation/blob/master/video1_qubit_rotation_latex.pdf) showing how to convert quantum circuit diagrams to linear algebra. 
 
 For example, in the PennyLane tutorial, the following circuit diagram:
@@ -20,4 +29,12 @@ The PDF document includes the Pauli operators (also called the Pauli gates), the
 The third circuit involves a CNOT gate on two qubits which means you will need to use a tensor product. If you are unfamiliar with tensor products, we will be using them often so you can get used to them as you go along, treat them as a black-box that the code takes care of, or you can go learn about tensor products in the context of quantum computing in this video:
 
 [![Alt text](video1_video_thumbnail.png)](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+
+
+
+
+
+
+
+
 
