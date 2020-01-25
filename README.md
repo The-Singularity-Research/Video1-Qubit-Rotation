@@ -45,3 +45,31 @@ Operating on the qubit with other unitary operators (gates) can move it to some 
 ![Bloch sphere state](https://www.researchgate.net/publication/333130675/figure/fig3/AS:759029836034048@1557978223308/The-Bloch-sphere-representation-of-a-single-quantum-bit.jpg)
 
 More complicated operators may operate on several qubits at a time, each of which might be in a superposition. In this tutorial we focus on a single qubit to keep things simple, but more complicated operations on tensor producst will be needed soon, so be sure to think about the third circuit diagram given in the [Circuit Diagrams to Linear Algebra Document](Video1_Qubit_Rotation_linear_algebra.pdf).
+
+
+## What This is Used For
+
+From this tutorial, you will inderstand some of the most common quantum gates
+
+- The Pauli X, Y, and Z gates
+- The Hadamard gate
+- The CNOT gate
+
+You will also learn how to convert quantum circuit diagrams to linear algebra. This will help you understand how to use circuit composers such as those found in the [IBM Quantum Experience](Screen Shot 2020-01-25 at 3.41.45 PM)
+
+![IBM Circuits Composer](IBM_quantum_circuit_composer.png)
+
+Other places you will see circuit diagrams are in [Strawberry Fields](https://strawberryfields.ai/)
+
+![Strawberry Fields Circuit Composer](stawberry_fields_circuit_composer.png)
+
+as well as [Google Cirq](https://cirq.readthedocs.io/en/stable/circuits.html#conceptual-overview)
+
+![Google Cirq](google_cirq_circuit_diagram.png)
+
+Practically every quantum computing paper or book involved circuit diagrams at some point, so understanding what circuit diagrams are doing and being able to translate the circuit diagrams into linear algebra is key to being proficient at quantum computing and quantum machine learning. 
+
+
+
+
+
