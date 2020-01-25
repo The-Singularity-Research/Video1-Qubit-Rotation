@@ -67,7 +67,7 @@ as well as [Google Cirq](https://cirq.readthedocs.io/en/stable/circuits.html#con
 
 ![Google Cirq](google_cirq_circuit_diagram.png)
 
-Practically every quantum computing paper or book involved circuit diagrams at some point, so understanding what circuit diagrams are doing and being able to translate the circuit diagrams into linear algebra is key to being proficient at quantum computing and quantum machine learning. 
+Practically every quantum computing programming language, paper, and book involves circuit diagrams, so understanding what circuit diagrams are doing and being able to translate the circuit diagrams into linear algebra is key to being proficient at quantum computing and quantum machine learning. If you want to be able to understand scientific articles or if you want to do any programming with quantum computers you will need to understand this at some point. 
 
 
 
