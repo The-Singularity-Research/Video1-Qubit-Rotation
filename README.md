@@ -49,7 +49,7 @@ More complicated operators may operate on several qubits at a time, each of whic
 
 ## What This is Used For
 
-From this tutorial, you will inderstand some of the most common quantum gates
+From this tutorial, you will understand some of the most common quantum gates
 
 - The Pauli X, Y, and Z gates
 - The Hadamard gate
