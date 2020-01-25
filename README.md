@@ -55,7 +55,7 @@ From this tutorial, you will understand some of the most common quantum gates
 - The Hadamard gate
 - The CNOT gate
 
-You will also learn how to convert quantum circuit diagrams to linear algebra. This will help you understand how to use circuit composers such as those found in the [IBM Quantum Experience](Screen Shot 2020-01-25 at 3.41.45 PM)
+You will also learn how to convert quantum circuit diagrams to linear algebra. This will help you understand how to use circuit composers such as those found in the [IBM Quantum Experience](https://quantum-computing.ibm.com/composer/new-experiment)
 
 ![IBM Circuit Composer](IBM_quantum_circuit_composer.png)
 
