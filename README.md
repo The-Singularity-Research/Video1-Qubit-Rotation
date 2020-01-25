@@ -57,7 +57,7 @@ From this tutorial, you will understand some of the most common quantum gates
 
 You will also learn how to convert quantum circuit diagrams to linear algebra. This will help you understand how to use circuit composers such as those found in the [IBM Quantum Experience](Screen Shot 2020-01-25 at 3.41.45 PM)
 
-![IBM Circuits Composer](IBM_quantum_circuit_composer.png)
+![IBM Circuit Composer](IBM_quantum_circuit_composer.png)
 
 Other places you will see circuit diagrams are in [Strawberry Fields](https://strawberryfields.ai/)
 
