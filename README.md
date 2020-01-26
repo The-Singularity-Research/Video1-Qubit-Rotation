@@ -34,7 +34,7 @@ If you are feeling adventurous, check out the [challenge problems](Video1_Challe
 
 ## Gate Operations
 
-Quantum logic gates are just unitary matrix operators that operate on one or several qubits. For example, the Hadamard gate puts a qubit into a superposition of the 0 and 1 state:
+[Quantum logic gates](https://en.wikipedia.org/wiki/Quantum_logic_gate) are just unitary matrix operators that operate on one or several qubits. For example, the Hadamard gate puts a qubit into a superposition of the 0 and 1 state:
 
 ![superposition](https://cyberdefensereview.army.mil/Portals/6/Images/morris_quantum/morris_quantum_1.png?ver=2017-03-30-192830-177)
 
@@ -44,16 +44,20 @@ Operating on the qubit with other unitary operators (gates) can move it to some 
 
 ![Bloch sphere state](https://www.researchgate.net/publication/333130675/figure/fig3/AS:759029836034048@1557978223308/The-Bloch-sphere-representation-of-a-single-quantum-bit.jpg)
 
-More complicated operators may operate on several qubits at a time, each of which might be in a superposition. In this tutorial we focus on a single qubit to keep things simple, but more complicated operations on tensor producst will be needed soon, so be sure to think about the third circuit diagram given in the [Circuit Diagrams to Linear Algebra Document](Video1_Qubit_Rotation_linear_algebra.pdf).
+More complicated operators may operate on several qubits at a time, each of which might be in a superposition. In this tutorial we focus on a single qubit to keep things simple, but more complicated operations on tensor producst will be needed soon, so be sure to think about the third circuit diagram given in the [Circuit Diagrams to Linear Algebra Document](Video1_Qubit_Rotation_linear_algebra.pdf). If you are curious and familiar with LaTeX, the library used to create the circuit diagrams in this document is the TikZ library [quantikz](https://arxiv.org/pdf/1809.03842.pdf).
 
 
-## What This is Used For
+## Applications
 
-From this tutorial, you will understand some of the most common quantum gates
+From this tutorial, you will understand some of the most common quantum gates. We will focus primarily on the following gates:
 
 - The Pauli X, Y, and Z gates
 - The Hadamard gate
 - The CNOT gate
+
+There are many other gates and these will not be difficult to understand once you have a grasp of the gates we cover:
+
+![Quantum Logic Gates](Quantum_Logic_Gates_wikipedia.png)
 
 You will also learn how to convert quantum circuit diagrams to linear algebra. This will help you understand how to use circuit composers such as those found in the [IBM Quantum Experience](https://quantum-computing.ibm.com/composer/new-experiment)
 
