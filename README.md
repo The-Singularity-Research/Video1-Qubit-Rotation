@@ -2,8 +2,8 @@
 
 ## YouTube Video Tutorials
 - [Video 1](https://youtu.be/o5GbGUCdgt4)
-- Video 2
-- Video 3
+- [Video 2](https://youtu.be/_jzC2AzhZ6I)
+- [Video 3](https://youtu.be/yEK8Y9i7kAY)
 - Video 4
 
 In this repository, we will go through the [PennyLane tutorial on qubit rotations](https://pennylane.ai/qml/tutorial/tutorial_qubit_rotation.html). We will talk a little about quantum gates (which are just matrices operating on vectors) and how to interpret quantum circuit diagrams as linear algebra operations. 
